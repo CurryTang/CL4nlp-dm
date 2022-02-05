@@ -1,5 +1,5 @@
 # CL4nlp-dm
-Contrastive learning for natural language processing &amp; data mining
+Contrastive learning &amp; transfer learning  for natural language processing &amp; data mining
 
 
 ## AAAI 2022
