@@ -33,6 +33,10 @@ Contrastive learning &amp; transfer learning  for natural language processing &a
 
 ## NIPS 2021
 
+## ICML 2021
+* Learning Transferable Visual Models From Natural Language Supervision [Paper](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf) [Code](https://github.com/openai/CLIP)
+
+
 ## ACL 2021
 
 
