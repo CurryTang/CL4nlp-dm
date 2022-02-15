@@ -1,6 +1,8 @@
 # CL4nlp-dm
-Contrastive learning &amp; transfer learning  for natural language processing &amp; data mining
+Contrastive learning (&amp; some transfer learning)  for natural language processing &amp; data mining
 
+## WWW 2022
+* Zero-Shot Stance Detection via Contrastive Learning [Paper](http://www.hitsz-hlt.com/paper/Zero-Shot-Stance-Detection-via-Contrastive-Learning-WWW2022.pdf)
 
 ## AAAI 2022
 
