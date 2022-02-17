@@ -36,12 +36,20 @@ Contrastive learning (&amp; some transfer learning)  for natural language proces
 ## NIPS 2021
 
 ## ICML 2021
-* Learning Transferable Visual Models From Natural Language Supervision [Paper](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf) [Code](https://github.com/openai/CLIP)
+* Learning Transferable Visual Models From Natural Language Supervision [Paper](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf) [Code](https://github.com/openai/CLIP) 
 
 
 ## ACL 2021
 
+## NIPS 2020
+* Supervised Contrastive Learning [Paper](https://proceedings.neurips.cc/paper/2020/file/d89a66c7c80a29b1bdbab0f2a1a94af8-Paper.pdf)
 
-## Arxiv
+## ICML 2020
+* Understanding contrastive representation learning through alignment and uniformity on the hypersphere [Paper](http://proceedings.mlr.press/v119/wang20k.html)[Code](https://github.com/SsnL/align_uniform)
+
+## Arxiv \& CV
 * Meta-learning for Few-shot Natural Language Processing: A Survey [Paper](https://arxiv.org/abs/2007.09604)
+* Momentum Contrast for Unsupervised Visual Representation Learning
+[Paper](https://arxiv.org/pdf/1911.05722.pdf)
+* Improved Baselines with Momentum Contrastive Learning [Paper](https://arxiv.org/pdf/2003.04297.pdf)
 
