@@ -52,4 +52,6 @@ Contrastive learning (&amp; some transfer learning)  for natural language proces
 * Momentum Contrast for Unsupervised Visual Representation Learning
 [Paper](https://arxiv.org/pdf/1911.05722.pdf)
 * Improved Baselines with Momentum Contrastive Learning [Paper](https://arxiv.org/pdf/2003.04297.pdf)
+* Understanding the Behaviour of Contrastive Loss
+[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Understanding_the_Behaviour_of_Contrastive_Loss_CVPR_2021_paper.pdf)
 
